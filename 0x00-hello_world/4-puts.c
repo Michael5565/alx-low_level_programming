@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-/* MAIN
+/*
+ * MAIN
  * RETURN
  */int main(void)
 
