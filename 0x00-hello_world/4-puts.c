@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*MAIN IS THE REAL FUNCTION*/
-int main(void)
+/* MAIN*/int main(void)
 
 {
 
