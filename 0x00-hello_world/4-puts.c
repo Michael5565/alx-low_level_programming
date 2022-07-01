@@ -4,8 +4,7 @@
 
 /* MAIN
  * RETURN
- */
-int main(void)
+ */int main(void)
 
 {
 
