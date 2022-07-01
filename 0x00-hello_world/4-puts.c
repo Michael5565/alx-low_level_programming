@@ -2,7 +2,10 @@
 
 #include <stdio.h>
 
-/* MAIN*/int main(void)
+/* MAIN
+ * RETURN
+ */
+int main(void)
 
 {
 
