@@ -2,14 +2,15 @@
 
 #include <stdio.h>
 
-int main(void)/*main is the real function*/
+/*MAIN IS THE REAL FUNCTION*/
+int main(void)
 
 {
 
 	 puts("\"Programming is like building a multilingual puzzle");
 
 	 getchar();
-	 return (0);
+ return (0);
 
 }
 
