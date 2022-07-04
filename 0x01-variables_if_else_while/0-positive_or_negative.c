@@ -5,7 +5,7 @@ nclude <stdlib.h>
 /* more headers goes there */
 #include<stdlib.h>
 #include<stddef.h>
-
+#include<time.h>
 /* betty style doc for function main goes there */
 
 int main(void)
@@ -20,7 +20,7 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 		printf("is positive");
-	if (n = 0)
+	if (n == 0)
 		printf("is zero");
 	if (n < 0)
 		printf("is negative");
