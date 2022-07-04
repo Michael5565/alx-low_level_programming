@@ -1,4 +1,4 @@
-#include<stdlib.h>
+#include<stdio.h>
 
 #include<time.h>
 
@@ -8,7 +8,7 @@
 #include<time.h>
 /* betty style doc for function main goes there */
 
-int main(void)
+int main()
 
 {
 	int n;
@@ -19,12 +19,11 @@ int main(void)
 
 	/* your code goes there */
 	if (n > 0)
-		printf("is positive");
+		printf("%d is positive\n", n);
 	if (n == 0)
-		printf("is zero");
+		printf("%d is zero\n", n);
 	if (n < 0)
-		printf("is negative");
+		printf("%d is negative\n" n);
 
 return (0);
-
 }
