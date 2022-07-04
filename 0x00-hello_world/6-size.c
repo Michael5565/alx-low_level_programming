@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * function to print data sizes
- */int void main()
+ */int main(void)
 {
 	char c;
 	int i;
@@ -14,7 +14,7 @@
 	printf("Size of a long int: %lu byte(s)\n",sizeof(ll));
 	printf("Size of a long long int: %lu byte(s)\n",sizeof(lll));
 	printf("Size of a float: %lu byte(s)\n",sizeof(fl));
-return(0)
+return(0);
 }
 
 
