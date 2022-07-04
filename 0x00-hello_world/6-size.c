@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * function to print data sizes
- */void main()
+ */int void main()
 {
 	char c;
 	int i;
