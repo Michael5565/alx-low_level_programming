@@ -6,9 +6,9 @@
 #include<stdlib.h>
 #include<stddef.h>
 #include<time.h>
-/* betty style doc for function main goes there */
-
-int main()
+/* 
+ * betty style doc for function main goes there 
+*/int main(void)
 
 {
 	int n;
