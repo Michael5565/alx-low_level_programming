@@ -1,7 +1,7 @@
-#include<stdio.h>                                                                                                                             
-
-/*                                                                               * print all letter all alphabet in lower case*/int main(void)
-{                                                                                                                                             
+#include<stdio.h>
+/*
+*print all letter all alphabet in lower case*/int main(void)
+{                                                                                 
 	int ch;                                                                	                                                                                	for (ch = 'a'; ch <= 'z'; ch++)                                                                                                       
 	{
 		putchar (ch);
@@ -10,4 +10,4 @@
 	{
 		putchar (ch);
 	}	                                                                	putchar ('\n');                                                         	return (0);
-}                                                                              
+}                                  
