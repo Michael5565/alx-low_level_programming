@@ -23,13 +23,8 @@ int main(void)
 	        for (i = 0; i < 10; i++)
 
 			    {
-
-				    	putchar (ch);
-
-					    }
-
-		    putchar ('\n')
-
+				    printf("%d",i);
+			    }
 			        return (0);
 
 }
