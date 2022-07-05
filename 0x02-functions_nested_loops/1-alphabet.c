@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 
 
@@ -10,14 +10,13 @@ include "main.h"
  *
  *    * Return: Always 0.
  *
- *     */
-
-int main(void)
-
+ *     */ print_alphabet();
 {
-
-	    print_alphabet();
-
-	        return (0);
-
+	int n;
+	for (n = 'a'; n <= 'z'; n++)
+	{
+		_putchar(n);
+	}
+	_putchar('\n');
+	returns (0);
 }
