@@ -6,6 +6,6 @@
 		return (-1 * a);
 	else if (a == 0)
 		return (0);
-	else (a > 0)
+	else 
 		return (1 * a);
 }
