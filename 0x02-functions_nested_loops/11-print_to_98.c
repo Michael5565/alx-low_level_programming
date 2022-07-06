@@ -1,3 +1,4 @@
+#include<stdio.h>
 #include"main.h"
 /*
  * listing numbers*/void print_to_98(int n)
