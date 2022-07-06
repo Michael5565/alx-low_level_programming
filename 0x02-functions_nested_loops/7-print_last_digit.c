@@ -2,12 +2,15 @@
 /*
  * last digit*/int print_last_digit(int a)
 {
+	int l;
+	int pld;
+
 	l = (a % 10);
-	if (pld < 0)
+	if (l < 0)
 	{
-		pld = (-1 * pld)
+		l = (-1 * pld)
 	}
-	_putchar(pld + '0');
-	return (pld);
+	_putchar(l + '0');
+	return (l);
 }
 
