@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 /*
  * multiolication table*/void times_table(void)
 {
