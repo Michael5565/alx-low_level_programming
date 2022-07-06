@@ -2,6 +2,6 @@
 /*
  * last digit*/int print_last_digit(int a)
 {
-	return (a % 10);
+	return (a % 10 + '0');
 }
 
