@@ -10,8 +10,9 @@
 		for (j = 0; j <= 0; j++)
 		{
 			_putchar(i * j);
-			_putchar(", ");
+			_putchar(",");
+			_putchar(" ");
 		}
 	}
-	return (0)
+	return (0);
 }
