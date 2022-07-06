@@ -3,7 +3,6 @@
  * last digit*/int print_last_digit(int a)
 {
 	int l;
-	int pld;
 
 	l = (a % 10);
 	if (l < 0)
