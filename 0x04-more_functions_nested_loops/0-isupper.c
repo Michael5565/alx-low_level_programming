@@ -1,13 +1,7 @@
 #include "main.h"
 
-/**
- * main - check the code.
- *
- *
- *
- * Return: Always 0.
- *
- */int _isupper(int c)
+/*
+ * main - check the code.*/int _isupper(int c)
 {
 
 	if (c >= 65 && c <= 90)
