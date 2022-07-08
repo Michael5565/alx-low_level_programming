@@ -4,7 +4,7 @@
 {
 	int n;
 	int a;
-	
+
 	for (n = 0; n < 10; n++)
 	{
 		for (a = '0'; a <= '14'; a++)
